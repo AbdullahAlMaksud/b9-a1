@@ -422,3 +422,14 @@ hr{
 .important {
   color: #f00;
 }
+
+button:hover{
+  cursor: pointer;
+  color: #000000;
+}
+
+input[type="submit"]:hover{
+  cursor: pointer;
+  background-color: rgb(214, 0, 0);
+
+}
